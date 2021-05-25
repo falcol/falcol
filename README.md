@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 
 ### Frontend
-![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vuejs](https://img.shields.io/badge/Vuejs-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-43853D?style=for-the-badge&logo=vuetify)
