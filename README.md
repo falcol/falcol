@@ -2,6 +2,7 @@
 ### OSes
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0068C8?style=for-the-badge&logo=ubuntu)
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-0068C8?style=for-the-badge&logo=arch-linux)
+![Manjaro](https://img.shields.io/badge/Manjaro-0068C8?style=for-the-badge&logo=manjaro)
 
 ### Tools
 ![NeoVim](https://img.shields.io/badge/-NeoVIm-lightgrey?style=for-the-badge&logo=neovim)
