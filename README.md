@@ -13,6 +13,7 @@
 
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=Ruby)
 
 ### Frontend
 ![Vuejs](https://img.shields.io/badge/Vuejs-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
