@@ -14,6 +14,7 @@
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=Ruby)
+![NET CORE](https://img.shields.io/badge/-netcore-blue?style=for-the-badge&logo=dotnet)
 
 ### Frontend
 ![Vuejs](https://img.shields.io/badge/Vuejs-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
