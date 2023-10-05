@@ -27,6 +27,13 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
+
+### Framework Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-35495E?style=for-the-badge&logo=fastapi&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=flask&logoColor=EEEEEE)
+![Express](https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=express&logoColor=4FC08D)
+
+
 ### Ops
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
