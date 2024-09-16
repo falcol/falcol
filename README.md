@@ -21,6 +21,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-43853D?style=for-the-badge&logo=vuetify)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
@@ -32,6 +33,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-35495E?style=for-the-badge&logo=fastapi&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=flask&logoColor=EEEEEE)
 ![Express](https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=express&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/-Django-43853D?style=for-the-badge&logo=django)
 
 
 ### Ops
