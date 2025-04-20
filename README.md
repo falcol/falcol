@@ -40,5 +40,14 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 
+## 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=falcol&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## ⚡ Github stats
-[![falcol's github stats](https://github-readme-stats.vercel.app/api?username=falcol&count_private=true&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=falcol&count_private=true&show_icons=true&theme=gruvbox)
+[![falcol's github stats](https://github-readme-stats.vercel.app/api?username=falcol&count_private=true&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=falcol&count_private=true&show_icons=true&theme=gruvbox)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falcol&theme=onedark)
+![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falcol&theme=onedark)
+![github commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falcol&theme=onedark&utcOffset=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falcol&theme=onedark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falcol&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=falcol&theme=onedark&hide_border=true)
