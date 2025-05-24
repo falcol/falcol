@@ -28,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Sqlite](https://img.shields.io/badge/-Sqlite-yellow?style=for-the-badge&logo=sqlite)
 
 
 ### Framework Backend
